@@ -1,5 +1,5 @@
 # Price Calculator
-Coding test to be part of Kambi's great team :)
+Coding test to be part of Kambi's team!
 
 ## Escope
 This project calculates the price of a given product, according to the parameters.
